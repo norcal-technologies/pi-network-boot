@@ -13,7 +13,7 @@ Model		: Raspberry Pi 3 Model B Plus Rev 1.3
 
 ## Networking
 
-To stop any inteference between
+To stop any potential inteference from DHCP between the local network in your office/home it is highly recommended to run this in an isolated environment, ideally a seperate switch. To allow remote access to the Master node, you can enable WiFi as DHCP will only be running on the wired etherenet (eth0).
 
 ### Static IP for Master node
 
